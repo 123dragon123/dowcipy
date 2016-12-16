@@ -1,0 +1,12 @@
+{
+    "name": "root/dowcipy",
+    "authors": [
+        {
+            "name": "Natalia Stach",
+            "email": "snatalia17@onet.eu"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    }
+}
